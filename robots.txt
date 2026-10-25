@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/private/
+
+# Sitemaps
+Sitemap: https://klmxconvex.com/sitemap.xml
